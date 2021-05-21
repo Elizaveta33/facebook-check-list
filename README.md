@@ -45,4 +45,6 @@
 |  | Critical pass | Check function "No more access?" |
 |  | Critical pass | Check function "Is it not you?" |
 |  | Critical pass | Check count (intervals) of sent code using phone number |
+| Common | Critical pass | Check adaptive |
+|  | Critical pass | Check on different browsers, devices, OS |
 
